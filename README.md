@@ -2,7 +2,7 @@ Hi there! I am a student in Front-End Development @ Noroff College Norway 🎓
 
   🔭 I’m currently working on projects associated with my studies
   
-  🌱 I’m currently learning SPA using Vanilla JavaScript
+  🌱 I’m currently learning CSS frameworks: Tailwind and Bootstrap
   
   🤔 I’m looking for help with UI/UX design
   
